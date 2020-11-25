@@ -5,5 +5,5 @@ After initial review, the decision was madeto update this data daily by automati
 
 ## Summary
 The process was very similar to the work we performed during the module activities. Because of the large size of the ratings file, the upload took 1.6 hours. Automatically loading the data into the Postgres database resulted in the following count of rows per table:
-[movies_query.png](/Resources/movies_query.png)
-[ratings_query.png](/Resources/ratings_query.png)
+![movies_query.png](/Resources/movies_query.png)
+![ratings_query.png](/Resources/ratings_query.png)
